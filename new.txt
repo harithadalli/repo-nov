@@ -1,0 +1,15 @@
+To pack or compress:
+--------------------
+tar cvf dir9(filename)        result  dir9.tar
+
+To zip :
+--------
+gzip dir9.tar                result  dir9.ar.gz
+
+To unzip:
+---------
+gunzip dir9.tar.gz           result  dir9.tar
+
+To unpack:
+----------
+tar xvf dir9.tar
